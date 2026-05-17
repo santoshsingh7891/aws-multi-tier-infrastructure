@@ -1,3 +1,7 @@
+![Terraform](https://img.shields.io/badge/Terraform-v1.5-blue)
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 # AWS Multi-Tier Infrastructure Automation
 
 ## Overview
@@ -51,17 +55,25 @@ aws-multi-tier-infrastructure/
 ├── scripts/
 ├── screenshots/
 └── README.md
+
+```
+# Terraform Components
+
+```text
+terraform/
+├── provider.tf
+├── versions.tf
+├── vpc.tf
+├── subnet.tf
+├── security-groups.tf
+├── ec2.tf
+├── rds.tf
+├── autoscaling.tf
+├── variables.tf
+├── outputs.tf
 ```
 
 ---
-
-# Deployment Steps
-
-## Initialize Terraform
-
-```bash
-terraform init
-```
 
 ## Validate Configuration
 
@@ -89,12 +101,12 @@ terraform apply
 
 # Future Enhancements
 
-- Auto Scaling
-- Load Balancer
-- Kubernetes Integration
-- CI/CD Automation
-- Monitoring Dashboards
-- Multi-region deployment
+- Kubernetes (EKS) integration
+- CI/CD using GitHub Actions
+- HTTPS with ACM & Route 53
+- WAF implementation
+- Prometheus & Grafana monitoring
+- Multi-region disaster recovery
 
 ---
 
@@ -169,3 +181,8 @@ terraform destroy
 
 Santosh Singh  
 Cloud & DevOps Engineer
+
+# Connect With Me
+
+- LinkedIn: https://linkedin.com/in/your-link
+- GitHub: https://github.com/santoshsingh7891
