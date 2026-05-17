@@ -4,6 +4,8 @@
 
 # AWS Multi-Tier Infrastructure Automation
 
+Terraform | AWS | Infrastructure as Code (IaC) | DevOps Automation
+
 ## Overview
 
 Enterprise-grade AWS infrastructure automation project using Terraform, VPC, EC2, RDS, IAM, Route 53, and CloudWatch.
@@ -11,6 +13,21 @@ Enterprise-grade AWS infrastructure automation project using Terraform, VPC, EC2
 This project demonstrates Infrastructure-as-Code (IaC), secure network architecture, cloud automation, and operational monitoring for scalable AWS environments.
 
 ---
+
+## Table of Contents
+
+- [Overview](#overview)
+- [Architecture Diagram](#architecture-diagram)
+- [Technologies Used](#technologies-used)
+- [Features](#features)
+- [Project Structure](#project-structure)
+- [Terraform Components](#terraform-components)
+- [Security Best Practices](#security-best-practices)
+- [Future Enhancements](#future-enhancements)
+- [Project Screenshots](#-project-screenshots)
+- [Deployment Steps](#-deployment-steps)
+- [Cleanup](#-cleanup)
+- [Author](#author)
 
 ## Architecture Diagram
 
