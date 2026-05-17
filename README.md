@@ -44,8 +44,6 @@ This project demonstrates Infrastructure-as-Code (IaC), secure network architect
 
 ---
 
-# Project Structure
-
 ```text
 aws-multi-tier-infrastructure/
 │
@@ -55,9 +53,7 @@ aws-multi-tier-infrastructure/
 ├── scripts/
 ├── screenshots/
 └── README.md
-
 ```
-# Terraform Components
 
 ```text
 terraform/
@@ -71,7 +67,6 @@ terraform/
 ├── rds.tf
 ├── variables.tf
 ├── outputs.tf
-
 ```
 
 ---
@@ -171,5 +166,5 @@ Cloud & DevOps Engineer
 
 # Connect With Me
 
-- LinkedIn: https://linkedin.com/in/your-link
+- LinkedIn: https://www.linkedin.com/in/santosh-singh-141a5775/
 - GitHub: https://github.com/santoshsingh7891
