@@ -146,6 +146,23 @@ terraform apply
 
 ![Database](screenshots/database-validation.png)
 
+# 🚀 Deployment Steps
+
+```bash
+terraform init
+terraform validate
+terraform plan
+terraform apply
+```
+
+---
+
+# 🧹 Cleanup
+
+```bash
+terraform destroy
+```
+
 ---
 
 # Author
