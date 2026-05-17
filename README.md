@@ -98,6 +98,56 @@ terraform apply
 
 ---
 
+# 📸 Project Screenshots
+
+## Architecture Diagram
+
+![Architecture](architecture/aws-multi-tier-architecture.drawio.png)
+
+---
+
+## EC2 Instance Running
+
+![EC2](screenshots/ec2-instance-running.png)
+
+---
+
+## Launch Template
+
+![Launch Template](screenshots/launch-template.png)
+
+---
+
+## Application Load Balancer
+
+![ALB](screenshots/application-load-balancer.png)
+
+---
+
+## Auto Scaling Group
+
+![ASG](screenshots/autoscaling-group.png)
+
+---
+
+## RDS MySQL Instance
+
+![RDS](screenshots/rds-mysql-instance.png)
+
+---
+
+## MySQL Connectivity
+
+![MySQL](screenshots/mysql-connection.png)
+
+---
+
+## Database Validation
+
+![Database](screenshots/database-validation.png)
+
+---
+
 # Author
 
 Santosh Singh  
