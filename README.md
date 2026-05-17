@@ -44,7 +44,7 @@ This project demonstrates Infrastructure-as-Code (IaC), secure network architect
 
 ---
 
-```text
+```
 aws-multi-tier-infrastructure/
 │
 ├── architecture/
@@ -55,7 +55,7 @@ aws-multi-tier-infrastructure/
 └── README.md
 ```
 
-```text
+```
 terraform/
 ├── provider.tf
 ├── versions.tf
