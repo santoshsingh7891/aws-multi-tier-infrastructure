@@ -44,7 +44,9 @@ This project demonstrates Infrastructure-as-Code (IaC), secure network architect
 
 ---
 
-```
+# Project Structure
+
+```text
 aws-multi-tier-infrastructure/
 │
 ├── architecture/
@@ -55,7 +57,9 @@ aws-multi-tier-infrastructure/
 └── README.md
 ```
 
-```
+# Terraform Components
+
+```text
 terraform/
 ├── provider.tf
 ├── versions.tf
@@ -102,6 +106,8 @@ terraform/
 
 ## EC2 Instance Running
 
+Terraform-provisioned EC2 instance hosting Apache/PHP application.
+
 ![EC2](screenshots/ec2-instance-running.png)
 
 ---
@@ -119,6 +125,8 @@ terraform/
 ---
 
 ## Auto Scaling Group
+
+Auto Scaling Group configured with minimum and maximum instance scaling policies.
 
 ![ASG](screenshots/autoscaling-group.png)
 
