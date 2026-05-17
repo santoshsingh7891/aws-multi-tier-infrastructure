@@ -67,24 +67,11 @@ terraform/
 ├── subnet.tf
 ├── security-groups.tf
 ├── ec2.tf
-├── rds.tf
 ├── autoscaling.tf
+├── rds.tf
 ├── variables.tf
 ├── outputs.tf
-```
 
----
-
-## Validate Configuration
-
-```bash
-terraform validate
-```
-
-## Deploy Infrastructure
-
-```bash
-terraform apply
 ```
 
 ---
@@ -102,9 +89,9 @@ terraform apply
 # Future Enhancements
 
 - Kubernetes (EKS) integration
-- CI/CD using GitHub Actions
-- HTTPS with ACM & Route 53
-- WAF implementation
+- CI/CD automation using GitHub Actions
+- HTTPS setup using ACM and Route 53
+- AWS WAF integration
 - Prometheus & Grafana monitoring
 - Multi-region disaster recovery
 
