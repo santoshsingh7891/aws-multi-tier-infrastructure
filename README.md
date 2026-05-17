@@ -8,9 +8,9 @@ This project demonstrates Infrastructure-as-Code (IaC), secure network architect
 
 ---
 
-# Architecture
+## Architecture Diagram
 
-(Add architecture diagram here)
+![AWS Architecture](architecture/aws-architecture-diagram.png)
 
 ---
 
