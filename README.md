@@ -10,7 +10,7 @@ This project demonstrates Infrastructure-as-Code (IaC), secure network architect
 
 ## Architecture Diagram
 
-![AWS Architecture](architecture/aws-architecture-diagram.png)
+![AWS Architecture](architecture/aws-multi-tier-architecture.drawio.png)
 
 ---
 
